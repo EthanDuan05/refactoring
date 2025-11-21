@@ -1,3 +1,5 @@
+36fe57a Finished Task 2.1
+e4b6737 Task 1.2 Finished
 86ce9cf Merge pull request #1 from EthanDuan05/Task1.1
 3166e15 Finished Task1.1
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
