@@ -1,3 +1,4 @@
+8afea6b Finished Task 2.2
 36fe57a Finished Task 2.1
 e4b6737 Task 1.2 Finished
 86ce9cf Merge pull request #1 from EthanDuan05/Task1.1
